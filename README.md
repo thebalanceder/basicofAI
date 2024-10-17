@@ -38,7 +38,7 @@ This section will explore the latest neural network architectures that are gaini
 - **Mamba**: A novel neural network architecture with enhanced scalability.
 - **YOLO**: Known for real-time object detection.
 - **ResNet**: Famous for its deep residual learning framework.
-- **SAM**: Sharpness-Aware Minimization, an approach to improve generalization.
+- **SAM**: Segment Anything model, an approach to improve generalization.
 - **KAN**: Knowledge-Aware Networks for integrating domain knowledge into deep learning.
 
 ### Large Multimodal Directions
