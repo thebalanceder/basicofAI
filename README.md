@@ -31,7 +31,7 @@ The expert system section focuses on the application of AI to simulate the decis
 ### Various Types of Transformers
 The transformer section will cover various types of transformer architectures, including:
 - **Vision Transformer (ViT)**: An innovative approach for image processing tasks using transformers.
-- **Graph Neural Networks (GNN)**: Applying transformers to graph-structured data for tasks like social network analysis and recommendation systems.
+### **Graph Neural Networks (GNN)**: Applying transformers to graph-structured data for tasks like social network analysis and recommendation systems.
 
 ### Trendy Neural Networks in 2024
 This section will explore the latest neural network architectures that are gaining popularity in 2024, such as:
